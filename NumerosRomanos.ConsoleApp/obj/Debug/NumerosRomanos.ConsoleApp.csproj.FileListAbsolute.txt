@@ -1,0 +1,7 @@
+C:\Users\Cliente\source\repos\NumerosRomanos\NumerosRomanos.ConsoleApp\obj\Debug\NumerosRomanos.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\source\repos\NumerosRomanos\NumerosRomanos.ConsoleApp\bin\Debug\NumerosRomanos.ConsoleApp.pdb
+C:\Users\Cliente\source\repos\NumerosRomanos\NumerosRomanos.ConsoleApp\obj\Debug\NumerosRomanos.ConsoleApp.pdb
+C:\Users\Cliente\source\repos\NumerosRomanos\NumerosRomanos.ConsoleApp\obj\Debug\NumerosRomanos.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Cliente\source\repos\NumerosRomanos\NumerosRomanos.ConsoleApp\bin\Debug\NumerosRomanos.ConsoleApp.exe.config
+C:\Users\Cliente\source\repos\NumerosRomanos\NumerosRomanos.ConsoleApp\bin\Debug\NumerosRomanos.ConsoleApp.exe
+C:\Users\Cliente\source\repos\NumerosRomanos\NumerosRomanos.ConsoleApp\obj\Debug\NumerosRomanos.ConsoleApp.exe
